@@ -4,8 +4,8 @@ void isequal(double value);
 
 void isequal(double value){
 
-    double v1; 
-    double v2; 
+    double v1 = 0xf; 
+    double v2 = 0xf; 
 
     std::cout << "Enter a first value for v1 : " << '\n'; 
     std::cin >> v1; 
